@@ -105,3 +105,7 @@ body * {
     padding-inline: 30px;
   }
 }
+
+a {
+  color: white;
+}
