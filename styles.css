@@ -80,6 +80,15 @@ body * {
 }
 
 @media (max-width: 670px) {
+  /* ... */
+
+  audio {
+    width: 100%;
+  }
+}
+
+
+@media (max-width: 670px) {
   #app {
     display: flex;
     flex-direction: column;
